@@ -6,7 +6,6 @@ public class Employee {
     }
 
     Employee(String name, String surname){
-        this();
         this.name = name;
         this.surname = surname;
     }
